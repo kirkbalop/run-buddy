@@ -152,9 +152,13 @@ section {
     border-color: #39a6b2;
 }
 
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+
 .steps div {
     margin-bottom: 80px;
-    background-color: #fce138;
 }
 
 .steps img {
